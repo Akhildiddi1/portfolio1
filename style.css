@@ -166,7 +166,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("/top-view-desk-dark-concept-with-copy-space.jpg");
+    background: url("top-view-desk-dark-concept-with-copy-space.jpg");
 	background-position: bottom;
     height: 100vh;
     color: #fff;
